@@ -41,7 +41,7 @@ Ai-Email-Agent/
 ├── loss_curves.png           # training loss chart (example)
 ├── requirements.txt          # pip dependencies
 
-└── README.txt                # this document
+└── README.md                # this document
 
 
 
@@ -154,6 +154,4 @@ Or run the Gradio cell in Colab.
 - `Data_Science_Report.pdf` → dataset, preprocessing, fine-tuning setup, results, evaluation.  
 - `interaction_logs.csv` → full evaluation logs.  
 
----
 
->>>>>>> 0515fe7 (Add detailed README.md)
