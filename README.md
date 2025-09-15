@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Email-Drafter Agent (GPT-2 Medium + LoRA)
 
 Author: Daksh Yadav
@@ -23,6 +24,34 @@ Goals:
 Deliverables in this Repository
 ------------------------------------------------------------
 
+=======
+# 📧 AI Email-Drafter Agent (GPT-2 Medium + LoRA)
+
+**Author:** Daksh Yadav  
+**University:** Indian Institute of Technology (IIT) Mandi  
+**Department:** Bioengineering  
+**Date:** September 15, 2025  
+
+---
+
+## 📌 Project Summary
+
+The **AI Email-Drafter Agent** is a lightweight prototype that fine-tunes a transformer language model to generate polite, structured academic emails (e.g., extension requests, recommendation requests, leave requests, clarification emails).  
+
+To make training feasible on commodity GPUs, the project uses **LoRA (PEFT)** adapters on top of **GPT-2 Medium** (causal LM) so that only small adapter weights are trained and stored.
+
+### 🎯 Goals
+- Generate emails with a subject, greeting, body and polite closing.  
+- Maintain a small storage footprint (LoRA adapters vs full model checkpoints).  
+- Provide deterministic post-processing to enforce structure and reduce failure modes.  
+- Log full interaction history (prompt → raw output → cleaned output) for reproducibility.  
+
+---
+
+## 📂 Deliverables in this Repository
+
+```
+>>>>>>> 0515fe7 (Add detailed README.md)
 Ai-Email-Agent/
 ├── demo/                     # screenshots + video demo
 ├── reports/
@@ -35,6 +64,7 @@ Ai-Email-Agent/
 ├── valid_example.jsonl       # sample validation / eval dataset
 ├── loss_curves.png           # training loss chart (example)
 ├── requirements.txt          # pip dependencies
+<<<<<<< HEAD
 └── README.txt                # this document
 
 ------------------------------------------------------------
@@ -115,3 +145,116 @@ Reports
 - architecture.pdf -> AI agent architecture, components, flow, model choices.
 - Data_Science_Report.pdf -> dataset, preprocessing, fine-tuning setup, results, evaluation.
 - interaction_logs.csv -> full evaluation logs.
+=======
+└── README.md                 # this document
+```
+
+---
+
+## 🛠️ Design Rationale
+
+- **Base model:** `gpt2-medium` (~345M parameters). Provides a balance of fluency and trainability on a single 8–16 GB GPU.  
+- **PEFT / LoRA:** trains small adapters, making the process efficient and storage-friendly.  
+- **Tokenizer:** GPT-2 BPE tokenizer with a `[PAD]` token for batching.  
+- **Post-processing:** `cleanup_and_validate()` ensures presence of subject, greeting, closing, and normalizes years.  
+- **UI:** Gradio-based demo for simple interaction and deployment.  
+
+---
+
+## 🚀 Quick Start — Google Colab
+
+1. Open the main notebook in `Source Code - Python Notebook/` or `Project.ipynb` in **Google Colab**.  
+2. Switch runtime to **GPU** (*Runtime → Change runtime type → GPU*).  
+3. Install dependencies:  
+   ```bash
+   !pip install -r requirements.txt
+   ```  
+4. Run notebook cells in order:  
+   - Data preparation  
+   - Fine-tuning (Trainer + LoRA)  
+   - Evaluation + log generation  
+   - Demo UI (Gradio)  
+
+---
+
+## 💻 Quick Start — Local Setup
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/<your-username>/Ai-Email-Agent.git
+   cd Ai-Email-Agent
+   ```
+
+2. Setup environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate    # macOS/Linux
+   venv\Scripts\activate     # Windows
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run notebooks or scripts for training/evaluation.
+
+---
+
+## 📊 Training
+
+Example command for fine-tuning:
+```bash
+python src/train_lora.py   --train_file data/train.jsonl   --validation_file data/valid.jsonl   --output_dir lora-output   --model_name_or_path gpt2-medium   --per_device_train_batch_size 1   --gradient_accumulation_steps 8   --num_train_epochs 8   --learning_rate 2e-4   --fp16
+```
+
+Or run training directly in Colab.  
+
+---
+
+## ✅ Evaluation & Interaction Logs
+
+1. Prepare `eval.jsonl` in the format:  
+   ```json
+   {"prompt": "Instruction: ...", "completion": "Subject: ..."}
+   ```
+
+2. Run evaluation to generate:  
+   ```
+   reports/interaction_logs.csv
+   ```  
+
+This file contains:  
+`prompt, reference_completion, raw_generation, cleaned_generation, valid_flag, settings`
+
+---
+
+## 🎨 Demo UI (Gradio)
+
+Run the Gradio app:
+```bash
+python src/ui_gradio.py --adapter_dir lora-output --model_name gpt2-medium
+```
+
+Or run the Gradio cell in Colab.  
+
+---
+
+## 📈 Results
+
+- Training loss: **0.0751**  
+- Validation loss: **0.0693**  
+- Validation perplexity: **~1.072**  
+- Structural correctness pass rate: **85–90%**  
+
+---
+
+## 📑 Reports
+
+- `architecture.pdf` → AI agent architecture (components, flow, model choices).  
+- `Data_Science_Report.pdf` → dataset, preprocessing, fine-tuning setup, results, evaluation.  
+- `interaction_logs.csv` → full evaluation logs.  
+
+---
+
+>>>>>>> 0515fe7 (Add detailed README.md)
