@@ -27,7 +27,7 @@ To make training feasible on commodity GPUs, the project uses **LoRA (PEFT)** ad
 ## 📂 Deliverables in this Repository
 
 ```
->>>>>>> 0515fe7 (Add detailed README.md)
+
 Ai-Email-Agent/
 ├── demo/                     # screenshots + video demo
 ├── reports/
@@ -40,7 +40,7 @@ Ai-Email-Agent/
 ├── valid_example.jsonl       # sample validation / eval dataset
 ├── loss_curves.png           # training loss chart (example)
 ├── requirements.txt          # pip dependencies
-<<<<<<< HEAD
+
 └── README.txt                # this document
 
 ------------------------------------------------------------
