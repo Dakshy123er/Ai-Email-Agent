@@ -1,30 +1,6 @@
-<<<<<<< HEAD
-# AI Email-Drafter Agent (GPT-2 Medium + LoRA)
 
-Author: Daksh Yadav
-University: Indian Institute of Technology (IIT) Mandi
-Department: Bioengineering
-Date: September 15, 2025
 
-------------------------------------------------------------
-Project Summary
-------------------------------------------------------------
 
-The AI Email-Drafter Agent is a lightweight prototype that fine-tunes a transformer language model to generate polite, structured academic emails (e.g., extension requests, recommendation requests, leave requests, clarification emails).
-
-To make training feasible on commodity GPUs, the project uses LoRA (PEFT) adapters on top of GPT-2 Medium (causal LM) so that only small adapter weights are trained and stored.
-
-Goals:
-- Produce email drafts with a subject, greeting, body and polite closing.
-- Maintain a small storage footprint (LoRA adapters vs full model checkpoints).
-- Provide deterministic post-processing to enforce structure and reduce failure modes.
-- Log full interaction history (prompt -> raw output -> cleaned output) for reproducibility.
-
-------------------------------------------------------------
-Deliverables in this Repository
-------------------------------------------------------------
-
-=======
 # 📧 AI Email-Drafter Agent (GPT-2 Medium + LoRA)
 
 **Author:** Daksh Yadav  
