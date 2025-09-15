@@ -63,7 +63,7 @@ Ai-Email-Agent/
 ## 🚀 Quick Start — Google Colab
 
 1. Open the main notebook in `Source Code - Python Notebook/` or `Project.ipynb` in **Google Colab**.  
-2. Switch runtime to **GPU** (*Runtime → Change runtime type → GPU*).  
+2. Switch runtime to **GPU** (*Runtime → Change runtime type → T4 GPU*).  
 3. Install dependencies:  
    ```bash
    !pip install -r requirements.txt
