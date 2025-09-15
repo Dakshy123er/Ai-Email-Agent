@@ -1,0 +1,808 @@
+timestamp,prompt,reference_completion,raw_generation,cleaned_generation,valid_flag,settings
+15-09-2025 17:15,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Signal Processing assignment
+
+Dear Dr. Sharma,
+
+I hope you are well. I am writing to request a 3-day extension for the final deliverable for Signal Processing currently due on September 18, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the final deliverable by September 21, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Aarav Roll No. 407618
+Signal Processing","Subject line: Request For 5 Day Extension on Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell since October 1stand was unableto complete the Algorithm design bythe original deadline . I respectfully request a 3 day extension and assureyou that I will include it promptly.","Subject line: Request For 5 Day Extension on Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell since October 1stand was unableto complete the Algorithm design bythe original deadline . I respectfully request a 3 day extension and assureyou that I will include it promptly",0,"temp=0.6, beams=4"
+15-09-2025 17:15,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Computer Networks assignment
+
+Dear Dr. Sharma,
+
+I hope you are well. I am writing to request a 3-day extension for the lab report for Computer Networks currently due on September 22, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the lab report by September 25, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Meera Roll No. 991014
+Computer Networks","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell but was unableto complete the Algorithm Design assignment bythe original deadline . Sincerely,","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell but was unableto complete the Algorithm Design assignment bythe original deadline . Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:15,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Mehta,
+
+I hope you are doing well. I am applying for an internship at Qualcomm and would be honored if you could write a letter of recommendation on my behalf. The application deadline is September 28, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 18, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Vikram
+MTech, 2nd year","Subject line, greeting, purpose, deadline October 20th, 2025, and polite closing.Subject: Request For Recommendation Letter
+
+
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide a recommendation document for me. The application deadline is October20 th , 25 yrs old . I will ensure to cover the required material promptly.[/quote]","Subject line, greeting, purpose, deadline October 20th, 2025, and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide a recommendation document for me. The application deadline is October20 th , 25 yrs old . I will ensure to cover the required material promptly.[/quote]",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Database Systems assignment
+
+Dear Dr. Sharma,
+
+I hope you are well. I am writing to request a 3-day extension for the programming assignment for Database Systems currently due on September 18, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the programming assignment by September 21, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Anaya Roll No. 973294
+Database Systems","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell and was unableto complete the Algorithm assignments bythe original deadline . They include a revised submission date of September 25th , 2025.Thank you for your understanding.
+
+Sincerely,","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell and was unableto complete the Algorithm assignments bythe original deadline . They include a revised submission date of September 25th , 2025.Thank you for your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Professor Choudhary,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 15, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 25, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Rohan
+MTech, 5th semester student","Subject line, greeting, purpose, deadline November 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+
+
+ [Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on the application form for me that includes both theoretical explanation & practical implementation. The ideal scenario is for us each submitting our resume together. We will ensure to include all of them promptly after receiving your recommendation letter.[/quote]
+[Your Name]
+I apply online under the terms stated in the application guidelines . My resume should reflect my qualifications and address details of the position. Please let reference number = 2041-1791 for your reference.
+Thank Youfor considering my request","Subject line, greeting, purpose, deadline November 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter [Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on the application form for me that includes both theoretical explanation & practical implementation. The ideal scenario is for us each submitting our resume together. We will ensure to include all of them promptly after receiving your recommendation letter.[/quote]
+[Your Name]
+I apply online under the terms stated in the application guidelines . My resume should reflect my qualifications and address details of the position. Please let reference number = 2025-1791 for your reference.
+Thank Youfor considering my request",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Operating Systems assignment
+
+Dear Professor Gupta,
+
+I hope you are well. I am writing to request a 3-day extension for the project report for Operating Systems currently due on September 21, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the project report by September 24, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Isha Roll No. 319684
+Operating Systems","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell but was unableto complete the Algorithm assignments until they were submitted bythe original deadline . Since then we have added another 2 days and have included both letters of recommendation and polite closing.Thank you for your understanding.-Dr.[Your Name]","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell but was unableto complete the Algorithm assignments until they were submitted bythe original deadline . Since then we have added another 2 days and have included both letters of recommendation and polite closing.Thank you",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Patel,
+
+I hope you are doing well. I am applying for an internship at Qualcomm and would be honored if you could write a letter of recommendation on my behalf. The application deadline is September 26, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 25, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Isha
+BTech, 3rd year","Subject line, greeting, purpose, deadline November 20, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.]","Subject line, greeting, purpose, deadline November 20, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.]",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Professor Gupta,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 11, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Isha
+MTech, final year","Subject line, greeting, purpose, deadline September 21st, 2025, open until October 20th , include URL
+[Dear Prof.,]
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is September 2021. I will ensure to cover the required material promptly.[Your Name]","Subject line, greeting, purpose, deadline September 21st, 2025, open until October 20th , include URL
+[Dear Prof.,]
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is September 2025. I will ensure to cover the required material promptly.[Your Name]",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Patel,
+
+I hope you are doing well. I am applying for an internship at Qualcomm and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 13, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Diya
+BTech, 4th year","Subject line, greeting, purpose, deadline October 1, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+
+
+ [Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations on the application form. The application is expected by October 15th .I will ensure to cover both the theoretical explanation & practical implementation of the assignment within 5 days after submitting the request.[/quote]
+[Your Name]:
+My name was Aaron Bhatia; I'm seeking advice regarding an upcoming scientific topic due in November 25, 2015.(https://www-datausercontent.-com/#!/Application/Submit/?q=RequestForRecommendations%20Letter#)Thank","Subject line, greeting, purpose, deadline October 1, 2025 ,and polite closing.Subject: Request For Recommendation Letter [Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations on the application form. The application is expected by October 15th .I will ensure to cover both the theoretical explanation & practical implementation of the assignment within 5 days after submitting the request.[/quote]
+[Your Name]:
+My name was Aaron Bhatia; I'm seeking advice regarding an upcoming scientific topic due in November 25, 2025.(https://www-datausercontent.-com/#!/Application/Submit/?q=RequestForRecommendations%20Letter#)Thank",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Thermodynamics assignment
+
+Dear Professor Choudhary,
+
+I hope you are well. I am writing to request a 3-day extension for the assignment for Thermodynamics currently due on September 19, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the assignment by September 22, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Diya Roll No. 725550
+Thermodynamics",Subject line: Request For 2nd Extension On Algorithms Assignment,Subject line: Request For 2nd Extension On Algorithms Assignment,0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Kapoor,
+
+I hope you are doing well. I am applying for an internship at Zoho and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 13, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 24, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Rahul
+BEng, 5th semester student","Subject line, greeting, purpose, deadline November 1, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+
+
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on the application form for me.(Name of applicant)
+I will ensure to cover all details promptly.[Your Name]","Subject line, greeting, purpose, deadline November 1, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on the application form for me.(Name of applicant)
+I will ensure to cover all details promptly.[Your Name]",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Mehta,
+
+I hope you are doing well. I am applying for an internship at TCS and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 12, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Diya
+MSc, final year","Subject line, greeting, purpose, deadline October 1, 2025 ,and polite closing
+[Dear Prof., I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations regarding the position due by October 25th . The application deadline isOctober 1st.""]
+
+ [Your Name]:
+Dear Dr. Bhatia-Bhattacharyya -I welcome Your Request for Recommendation Letter. Could You please confirm whether we were expected/expected /expected future proposals?.?","Subject line, greeting, purpose, deadline October 1, 2025 ,and polite closing
+[Dear Prof., I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations regarding the position due by October 25th . The application deadline isOctober 1st.""] [Your Name]:
+Dear Dr. Bhatia-Bhattacharyya -I welcome Your Request for Recommendation Letter. Could You please confirm whether we were expected/expected /expected future proposals?.?",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Mehta,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 11, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Daksh
+MSc, 2nd year","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing
+[Dear Prof.,]
+
+ [Your Name is Dr.[Name]. I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is October10th . I will ensure to cover the required material promptly.'Thank you in advancefor my recommendation.""","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing
+[Dear Prof.,] [Your Name is Dr.[Name]. I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is October10th . I will ensure to cover the required material promptly.'Thank you",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Professor Rao,
+
+I hope you are doing well. I am applying for an internship at Flipkart and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 08, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Daksh
+BEng, final year","Subject line, greeting, purpose, deadline October 20, 2025 ,and polite closing
+[Dear Prof., I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide a recommendation Letter for me. The application deadline is October20th, 25 years old. I will ensure to cover the required material promptly.[Your Name]
+
+ [Your Application】​ Dear Prof.:
+I apply for an academic position and would like confirmation whether it is expected by November 5 th . I respectfully request permission to include both the theoretical explanation & resume due by October 10-20, 2050.*
+Thank You For Your Consideration。","Subject line, greeting, purpose, deadline October 20, 2025 ,and polite closing
+[Dear Prof., I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide a recommendation Letter for me. The application deadline is October20th, 25 years old. I will ensure to cover the required material promptly.[Your Name] [Your Application Dear Prof.:
+I apply for an academic position and would like confirmation whether it is expected by November 5 th . I respectfully request permission to include both the theoretical explanation & resume due by October 10-20, 2025.*
+Thank You For Your Consideration",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Machine Learning assignment
+
+Dear Professor Choudhary,
+
+I hope you are well. I am writing to request a 3-day extension for the problem set for Machine Learning currently due on September 20, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the problem set by September 23, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Akash Roll No. 994141
+Machine Learning","Subject line: Request For 4th Extension On Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell so was unableto complete the Algorithm Design assignment bythe original deadline . Sincerely,
+
+[Your Name]","Subject line: Request For 4th Extension On Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell so was unableto complete the Algorithm Design assignment bythe original deadline . Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Database Systems assignment
+
+Dear Professor Rao,
+
+I hope you are well. I am writing to request a 3-day extension for the assignment for Database Systems currently due on September 21, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the assignment by September 24, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Akash Roll No. 553014
+Database Systems","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Chatterjee ,
+I hope you are well. I have been unwell and was unableto complete the Algorithm assignments as scheduled. They include a 13th day extension and assure me they will be submitted promptly . Thank You for your understanding.
+
+Sincerely,","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Chatterjee ,
+I hope you are well. I have been unwell and was unableto complete the Algorithm assignments as scheduled. They include a 13th day extension and assure me they will be submitted promptly . Thank You for your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Operating Systems assignment
+
+Dear Prof. Singh,
+
+I hope you are well. I am writing to request a 3-day extension for the project report for Operating Systems currently due on September 20, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the project report by September 23, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Vikram Roll No. 114338
+Operating Systems","Subject line: Request For 2nd Extension On Algorithms Assignment
+I hope you are well. I have been unwell; was unableto complete the Algorithm Design assignment until September 25th . Since then it has remained incomplete because of personal reasons.[/quote]
+
+ ""Dear Prof. Chatterjee ,
+[Your Name]. I am writing regarding the recent inability [To Complete An Algebraic Problem][1], and respectfully request a 3 day period of extension. The reason is both practical concerns and personal obligations. My previous submission was submitted in August and since then has not materialized – requiring reopening.
+Thank You for your understanding.
+Sincerely,"" ~ Dr. Nair
+Dear Prof.,Please be assured that","Subject line: Request For 2nd Extension On Algorithms Assignment
+I hope you are well. I have been unwell; was unableto complete the Algorithm Design assignment until September 25th . Since then it has remained incomplete because of personal reasons.[/quote] ""Dear Prof. Chatterjee ,
+[Your Name]. I am writing regarding the recent inability [To Complete An Algebraic Problem][1], and respectfully request a 3 day period of extension. The reason is both practical concerns and personal obligations. My previous submission was submitted in August and since then has not materialized requiring reopening.
+Thank You for your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Bose,
+
+I hope you are doing well. I am applying for an internship at Qualcomm and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 04, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 21, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Daksh
+MSc, 5th semester student","Subject line, greeting, purpose, deadline October 15, 2025 ,and polite closing
+[Dear Prof.,]
+
+ [Your Name is Dr.[Name.]] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is October 5th, 25 years old. I will ensure to cover the required material promptly.*Thank you for considering my request*.","Subject line, greeting, purpose, deadline October 15, 2025 ,and polite closing
+[Dear Prof.,] [Your Name is Dr.[Name.]] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is October 5th, 25 years old. I will ensure to cover the required material promptly.*Thank you",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Bose,
+
+I hope you are doing well. I am applying for an internship at TCS and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 06, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Akash
+MTech, 5th semester student","Subject line, greeting, purpose, deadline October 20, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if someone could provide me with a recommendation document for my position. The application deadline is October 20th, 25 years old. I will ensure to cover the required details promptly.[Thank You]","Subject line, greeting, purpose, deadline October 20, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if someone could provide me with a recommendation document for my position. The application deadline is October 20th, 25 years old. I will ensure to cover the required details promptly.[Thank You]",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Biochemistry assignment
+
+Dear Professor Gupta,
+
+I hope you are well. I am writing to request a 3-day extension for the lab report for Biochemistry currently due on September 16, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the lab report by September 19, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Daksh Roll No. 488571
+Biochemistry","Subject line: Request For 5 Day Extension on Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell (due in October) so was unableto complete the Algorithm Design assignment until September 25th . Since we were both busy, it allowed me to include additional material without unnecessary delay.[/quote]
+
+ [block text=""Request FOR 5 DAY EXTENSION on Algoritque Assignment"")[header][font size=4px][message]""Dear Dr.(Your Name),​
+Thank Youfor Your Understanding. I Have Been UnsteadilyUnableTo CompleteTheAlgoretical Problem Due ToIllness. CouldYou please Allow Me A 3-Day Vacation?Thank","Subject line: Request For 5 Day Extension on Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell (due in October) so was unableto complete the Algorithm Design assignment until September 25th . Since we were both busy, it allowed me to include additional material without unnecessary delay.[/quote] [block text=""Request FOR 5 DAY EXTENSION on Algoritque Assignment"")[header][font size=4px][message]""Dear Dr.(Your Name), Thank Youfor Your Understanding. I Have Been UnsteadilyUnableTo CompleteTheAlgoretical Problem Due ToIllness. CouldYou please Allow Me A 3-Day Vacation?Thank",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Signal Processing assignment
+
+Dear Prof. Iyer,
+
+I hope you are well. I am writing to request a 3-day extension for the lab report for Signal Processing currently due on September 21, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the lab report by September 24, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Isha Roll No. 436653
+Signal Processing","Subject line: Request For 5 Day Extension on Algorithms Assignment
+[Dear Prof. Kapoor], I hope you are well. I have been unwell so was unableto complete the Algorithm Design assignment bythe original deadline . 你好啊! I respectfully request a 3 day period of extension and assure your understanding.I kindly ask if you would be willing TO REDUCE THE UNLIMITED OBJECTION AND OPEN ANOTHER 7 DAY EXTENSIONS FOR YOUR POSITION.Thank You for Your Understanding.","Subject line: Request For 5 Day Extension on Algorithms Assignment
+[Dear Prof. Kapoor], I hope you are well. I have been unwell so was unableto complete the Algorithm Design assignment bythe original deadline . ! I respectfully request a 3 day period of extension and assure your understanding.I kindly ask if you would be willing TO REDUCE THE UNLIMITED OBJECTION AND OPEN ANOTHER 7 DAY EXTENSIONS FOR YOUR POSITION.Thank You for Your Understanding",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Thermodynamics assignment
+
+Dear Dr. Bose,
+
+I hope you are well. I am writing to request a 3-day extension for the programming assignment for Thermodynamics currently due on September 22, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the programming assignment by September 25, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Rohan Roll No. 768854
+Thermodynamics","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Chatterjee ,
+I hope you are well. I have been unwell and was unableto complete the Algorithm assignments as scheduled. They include reissuing them promptly; ensuring they cover both theoretical explanation & code implementation (both online),and adding closing remarks. Thank You for your understanding.
+
+Sincerely,[Your Name]","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Chatterjee ,
+I hope you are well. I have been unwell and was unableto complete the Algorithm assignments as scheduled. They include reissuing them promptly; ensuring they cover both theoretical explanation & code implementation (both online),and adding closing remarks. Thank You for your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:16,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Control Systems assignment
+
+Dear Dr. Kapoor,
+
+I hope you are well. I am writing to request a 3-day extension for the problem set for Control Systems currently due on September 20, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the problem set by September 23, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Priya Roll No. 870319
+Control Systems","Subject line: Request For 4th Extension On Algorithms Assignment
+I hope you are well. I have been unwell from personal reasons; therefore I was unableto complete the Algorithm design assignments bythe original deadline . Since then , I have submitted a request for a 5 day delay and assure you that I will ensure they are completed by October 15, 2025.[/quote]
+Thank You FOR your understanding.","Subject line: Request For 4th Extension On Algorithms Assignment
+I hope you are well. I have been unwell from personal reasons; therefore I was unableto complete the Algorithm design assignments bythe original deadline . Since then , I have submitted a request for a 5 day delay and assure you that I will ensure they are completed by October 15, 2025.[/quote]
+Thank You FOR your understanding",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Professor Gupta,
+
+I hope you are doing well. I am applying for an internship at Intel and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 05, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 24, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Rohan
+MSc, 3rd year","Subject line, greeting, purpose, deadline September 25, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+1. Introduction
+
+ [Dear Prof. Kapoor)
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations for me. The application deadline is September 5th, 2025 . I will ensure to cover the date accurately.
+Thank You in advancefor Your guidance.","Subject line, greeting, purpose, deadline September 25, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+1. Introduction [Dear Prof. Kapoor)
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations for me. The application deadline is September 5th, 2025 . I will ensure to cover the date accurately.
+Thank You in advancefor Your guidance",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Kapoor,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is September 25, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 22, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Karan
+MSc, 4th year","Subject line, greeting, purpose, deadline September 20, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+
+
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on the application form for me as a beginner. The application is due by September 20th; I will ensure to cover all details of the application promptly.[/quote]","Subject line, greeting, purpose, deadline September 20, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on the application form for me as a beginner. The application is due by September 20th; I will ensure to cover all details of the application promptly.[/quote]",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Kapoor,
+
+I hope you are doing well. I am applying for an internship at Google and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 01, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 23, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Rohan
+BTech, 2nd year","Subject line, greeting, purpose, deadline October 1, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations regarding the position due by October 5th, 2520 . The application fee is $50; includes gratuity unless otherwise agreed upon.
+
+ [Your Name]
+Dear Dr. Banerjee,[Your Name],​
+[You have been unwell.] I was seeking guidance on the recent internship assignment and hoped to include both the theoretical explanation of the position submission form as well reference material relating thereto.[Name]. Could we please refer back through our previous conversation and confirm whether we were expected either to submit each","Subject line, greeting, purpose, deadline October 1, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations regarding the position due by October 5th, 2520 . The application fee is $50; includes gratuity unless otherwise agreed upon. [Your Name]
+Dear Dr. Banerjee,[Your Name], [You have been unwell.] I was seeking guidance on the recent internship assignment and hoped to include both the theoretical explanation of the position submission form as well reference material relating thereto.[Name]. Could we please refer back through our previous conversation and confirm whether we were expected either to submit each",0,"temp=0.6, beams=4"
+15-09-2025 17:16,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Bose,
+
+I hope you are doing well. I am applying for an internship at Intel and would be honored if you could write a letter of recommendation on my behalf. The application deadline is September 26, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Rohan
+MTech, 5th semester student","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Prof. Iyer,
+
+I hope you are doing well. I am applying for an internship at TCS and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 04, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 22, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Saanvi
+BSc, 5th semester student","Subject line, greeting, purpose, deadline November 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations regarding the position due by October 20th . The application deadline is ten years after my last assignment date. I will ensure to cover all details promptly.'Thank You,'[Your Name]'.","Subject line, greeting, purpose, deadline November 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations regarding the position due by October 20th . The application deadline is ten years after my last assignment date. I will ensure to cover all details promptly.'Thank You,'[Your Name]",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Patel,
+
+I hope you are doing well. I am applying for an internship at TCS and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 06, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 22, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Diya
+BTech, 3rd year","Subject line, greeting, purpose, deadline November 5, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+
+
+ [Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on behalf of me. The application deadline is November 10th, 2015 . I will ensure to cover the required material promptly.
+[Your Name]
+
+Thank Youfor considering my request.
+I intend not only apply for an offer but also solicit advice regarding the practical implications of the position due by November 5., 2025.*
+1. Scope
+My goal in requesting a recommendation report is to gain insight into how best we might utilize our existing resources while ensuring that each submission conform","Subject line, greeting, purpose, deadline November 5, 2025 ,and polite closing.Subject: Request For Recommendation Letter [Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide recommendations on behalf of me. The application deadline is November 10th, 2025 . I will ensure to cover the required material promptly.
+[Your Name]
+Thank Youfor considering my request.
+I intend not only apply for an offer but also solicit advice regarding the practical implications of the position due by November 5., 2025.*
+1. Scope
+My goal in requesting a recommendation report is to gain insight into how best we might utilize our existing resources while ensuring that each submission conform",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Signal Processing assignment
+
+Dear Dr. Patel,
+
+I hope you are well. I am writing to request a 3-day extension for the final deliverable for Signal Processing currently due on September 16, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the final deliverable by September 19, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Saanvi Roll No. 971084
+Signal Processing","Subject line: Request For 2 Day Extension on Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell with continued inability of completing the Algorithm Design assignment bythe original deadline . Sincerely,
+
+ [Your Name]","Subject line: Request For 2 Day Extension on Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell with continued inability of completing the Algorithm Design assignment bythe original deadline . Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Biochemistry assignment
+
+Dear Professor Choudhary,
+
+I hope you are well. I am writing to request a 3-day extension for the problem set for Biochemistry currently due on September 22, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the problem set by September 25, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Arjun Roll No. 205409
+Biochemistry","Subject line: Request For 4th Extension On Algorithms Assignment
+I hope you are well. I have been unwell following an internship deadline; I was unableto complete the Algorithm Design assignment until September 20, 2025. Since I am confident that I would be able TO COMPLETE the assignment by then , request their permission to delay the submission until September 21st.Thank You .
+
+  _______________________________________________","Subject line: Request For 4th Extension On Algorithms Assignment
+I hope you are well. I have been unwell following an internship deadline; I was unableto complete the Algorithm Design assignment until September 20, 2025. Since I am confident that I would be able TO COMPLETE the assignment by then , request their permission to delay the submission until September 21st.Thank You . _______________________________________________",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Operating Systems assignment
+
+Dear Professor Rao,
+
+I hope you are well. I am writing to request a 3-day extension for the lab report for Operating Systems currently due on September 18, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the lab report by September 21, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Akash Roll No. 851413
+Operating Systems","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell and was unableto complete the Algorithm Design assignment bythe original deadline .  Since I was confident that I would be able TO COMPLETE the assignment by the original deadline , I respectfully request a 3 day extension and assure your understanding.""Dear Prof. Kapoor,[Your Name]","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell and was unableto complete the Algorithm Design assignment bythe original deadline . Since I was confident that I would be able TO COMPLETE the assignment by the original deadline , I respectfully request a 3 day extension and assure your understanding.""Dear Prof. Kapoor,[Your Name]",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Biochemistry assignment
+
+Dear Professor Gupta,
+
+I hope you are well. I am writing to request a 3-day extension for the lab report for Biochemistry currently due on September 20, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the lab report by September 23, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Daksh Roll No. 984642
+Biochemistry","Subject line: Request For 4th Extension On Algorithms Assignment
+I hope you are well. I have been unwell since the previous deadline; therefore I was unable To complete the Algorithm Design assignment as scheduled. Could we be expected TO combine our efforts?
+Thank YOU againfor your understanding.
+Sincerely,","Subject line: Request For 4th Extension On Algorithms Assignment
+I hope you are well. I have been unwell since the previous deadline; therefore I was unable To complete the Algorithm Design assignment as scheduled. Could we be expected TO combine our efforts?
+Thank YOU againfor your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Thermodynamics assignment
+
+Dear Dr. Patel,
+
+I hope you are well. I am writing to request a 3-day extension for the project report for Thermodynamics currently due on September 21, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the project report by September 24, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Saanvi Roll No. 226516
+Thermodynamics","Subject line: Request For 4th Extension On Algorithms Assignment
+
+
+[Dear Prof. Kapoor]
+I hope you are well. I have been unwell so was unable complete the Algorithm assignments until they were submitted bythe original deadline of October 1st . Since then we have added both theoretical and code implementation for each individual task. Please ensure that your submission is as clear as possible. Thank You for Your Understanding.[/subject]""","Subject line: Request For 4th Extension On Algorithms Assignment
+[Dear Prof. Kapoor]
+I hope you are well. I have been unwell so was unable complete the Algorithm assignments until they were submitted bythe original deadline of October 1st . Since then we have added both theoretical and code implementation for each individual task. Please ensure that your submission is as clear as possible. Thank You for Your Understanding.[/subject]",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Machine Learning assignment
+
+Dear Professor Rao,
+
+I hope you are well. I am writing to request a 3-day extension for the assignment for Machine Learning currently due on September 17, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the assignment by September 20, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Rohan Roll No. 890785
+Machine Learning","Subject line: Request For 4th Extension On Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell but was unableto complete the Algorithm design assignment until September 18, 2025. Since we cannot afford both the original submission deadlineand an expired deadline it is imperative thatwe request a 3 day extension so they can be submitted together.[/quote]
+
+ (Please include your email address.)Thank Youfor Your Understanding。","Subject line: Request For 4th Extension On Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell but was unableto complete the Algorithm design assignment until September 18, 2025. Since we cannot afford both the original submission deadlineand an expired deadline it is imperative thatwe request a 3 day extension so they can be submitted together.[/quote] (Please include your email address.)Thank Youfor Your Understanding",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Database Systems assignment
+
+Dear Professor Choudhary,
+
+I hope you are well. I am writing to request a 3-day extension for the programming assignment for Database Systems currently due on September 19, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the programming assignment by September 22, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Isha Roll No. 587575
+Database Systems","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell but was unableto complete the Algorithm assignments as scheduled. They include both theoretical explanation of implementation solution & code implementation. Thankyou for your understanding.
+
+Sincerely,
+
+[Your Name]","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Kulkarni ,
+I hope you are well. I have been unwell but was unableto complete the Algorithm assignments as scheduled. They include both theoretical explanation of implementation solution & code implementation. Thankyou for your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Sharma,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 03, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 23, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Rohan
+MSc, 4th year","Subject line, greeting, purpose, deadline October 5, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+
+
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations on behalf of me. The application deadline is October 25th, 2015 . I will ensure to cover the required details promptly.'Thank You for Your Permission.""","Subject line, greeting, purpose, deadline October 5, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations on behalf of me. The application deadline is October 25th, 2025 . I will ensure to cover the required details promptly.'Thank You for Your Permission",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Professor Choudhary,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 12, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Karan
+BSc, 2nd year","Subject line, greeting, purpose, deadline November 15, 2025,
+-Dear Prof. Kulkarni , I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is November 15th, 25 years old. I will ensure to cover the required details promptly.[Your Name]
+
+ [Your Position]:
+Dear ProfessorKilkerna,[Name],I apply for an Internship and would kindly ask that you could provide recommendations regarding the position due by November 15 – 25 year mark.The application deadline has been set; I shall fill it in as soon possible.*
+Thank You For Your Understanding。","Subject line, greeting, purpose, deadline November 15, 2025,
+-Dear Prof. Kulkarni , I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is November 15th, 25 years old. I will ensure to cover the required details promptly.[Your Name] [Your Position]:
+Dear ProfessorKilkerna,[Name],I apply for an Internship and would kindly ask that you could provide recommendations regarding the position due by November 15 25 year mark.The application deadline has been set; I shall fill it in as soon possible.*
+Thank You For Your Understanding",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Prof. Iyer,
+
+I hope you are doing well. I am applying for an internship at Zoho and would be honored if you could write a letter of recommendation on my behalf. The application deadline is September 25, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 21, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Rohan
+BTech, final year","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations on the application form. The application is due by November 5, 2025 . I will ensure to cover all details of the application promptly.[Your Name]
+
+ [Your Email Address]","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations on the application form. The application is due by November 5, 2025 . I will ensure to cover all details of the application promptly.[Your Name] [Your Email Address]",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Thermodynamics assignment
+
+Dear Prof. Singh,
+
+I hope you are well. I am writing to request a 3-day extension for the homework for Thermodynamics currently due on September 18, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the homework by September 21, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Isha Roll No. 288158
+Thermodynamics",Subject line: Request For 2 Day Extension on Algorithms Assignment,Subject line: Request For 2 Day Extension on Algorithms Assignment,0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Signal Processing assignment
+
+Dear Dr. Patel,
+
+I hope you are well. I am writing to request a 3-day extension for the project report for Signal Processing currently due on September 21, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the project report by September 24, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Akash Roll No. 725113
+Signal Processing","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell since the previous deadline; consequently, I was unableto complete the Algorithm assignments withinthe original deadline.[/quote]
+
+ [block text][Block header=""Your Name"" greeting=""Dear Prof. Bhatia"", description=Alignment Request Due To Illness)[/blocks][/font]""
+[img src="""" align=""center""><span>Dear ProfessorBhatta,[Name],<br />Thank youfor your understanding. I respectfully request a 3 day period of extension and assureyou that I will ensure it by submitting it by September 20, 2025.
+
+Thank You for Your Understanding.<strong><i>","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell since the previous deadline; consequently, I was unableto complete the Algorithm assignments withinthe original deadline.[/quote] [block text][Block header=""Your Name"" greeting=""Dear Prof. Bhatia"", description=Alignment Request Due To Illness)[/blocks][/font]""
+[img src="""" align=""center""><span>Dear ProfessorBhatta,[Name],<br />Thank you",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Thermodynamics assignment
+
+Dear Dr. Bose,
+
+I hope you are well. I am writing to request a 3-day extension for the problem set for Thermodynamics currently due on September 20, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the problem set by September 23, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Rahul Roll No. 785743
+Thermodynamics","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell; was unableto complete the Algorithm design assignment within the original deadline .  Therefore , I respectfully request a 3 day period of extension and assure your understanding.
+Thank You!","Subject line: Request For 5 Day Extension on Algorithms Assignment
+I hope you are well. I have been unwell; was unableto complete the Algorithm design assignment within the original deadline . Therefore , I respectfully request a 3 day period of extension and assure your understanding.
+Thank You!",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Patel,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is September 24, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 20, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Aarav
+BSc, 5th semester student","Subject line, greeting, purpose, deadline November 5, 2025 ,and polite closing
+[Dear Prof.,]
+
+ [Your Name is Dr.[Name.]] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is November 10th, 2015 . I will ensure to cover the required material promptly.'Thank you for considering my request.-Dr.Bhupinder Singh","Subject line, greeting, purpose, deadline November 5, 2025 ,and polite closing
+[Dear Prof.,] [Your Name is Dr.[Name.]] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is November 10th, 2025 . I will ensure to cover the required material promptly.'Thank you",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Patel,
+
+I hope you are doing well. I am applying for an internship at Amazon and would be honored if you could write a letter of recommendation on my behalf. The application deadline is September 29, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 22, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Arjun
+BTech, 2nd year","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing
+[Dear Prof.,I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is October 10th, 2017 . I will ensure to cover the required material promptly.']
+
+  __________________________","Subject line, greeting, purpose, deadline October 10, 2025 ,and polite closing
+[Dear Prof.,I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide a recommendation Letter for me. The application deadline is October 10th, 2025 . I will ensure to cover the required material promptly.'] __________________________",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Mehta,
+
+I hope you are doing well. I am applying for an internship at Amazon and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 01, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 23, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Neha
+BTech, 2nd year","Subject line, greeting, purpose, deadline October 5, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.)
+
+ [Your Name] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations for me. The application deadline is October 10th, 2015 . I will ensure to cover the required details promptly.*","Subject line, greeting, purpose, deadline October 5, 2025 ,and polite closing.Subject: Request For Recommendation Letter
+[Dear Prof.) [Your Name] I hope you are doing well. I am applying for an internship and would be grateful if your permission could provide some recommendations for me. The application deadline is October 10th, 2025 . I will ensure to cover the required details promptly.*",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Dr. Mehta,
+
+I hope you are doing well. I am applying for an internship at Adobe and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 08, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 21, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Neha
+MSc, final year","Subject line, greeting, purpose, deadline October 15, 2025 ,and polite closing
+[Dear Prof.,]
+
+ [Your Name is Dr.[Name.]] I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide some recommendations for me. The application deadline is October 25th, 2015 . I will ensure to cover the required details promptly.*
+Thank You For Your Consideration。","Subject line, greeting, purpose, deadline October 15, 2025 ,and polite closing
+[Dear Prof.,] [Your Name is Dr.[Name.]] I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide some recommendations for me. The application deadline is October 25th, 2025 . I will ensure to cover the required details promptly.*
+Thank You For Your Consideration",0,"temp=0.6, beams=4"
+15-09-2025 17:17,Instruction: Draft a polite email to request a recommendation letter from a professor for internship. Include timeline and proposed meeting.,"Subject: Request for Letter of Recommendation for Internship Application
+
+Dear Professor Choudhary,
+
+I hope you are doing well. I am applying for an internship at Google and would be honored if you could write a letter of recommendation on my behalf. The application deadline is October 06, 2025. If possible, could we meet for 10–15 minutes to discuss my application and provide any details you may need? I am available on or after September 24, 2025, and I can adapt to a time that suits your schedule. I can also share my resume, transcript, and a brief summary of the internship role ahead of our meeting.
+
+Thank you very much for considering my request. I appreciate any time you can spare.
+
+Best regards,
+Akash
+BSc, 4th year","Subject line, greeting, purpose, deadline November 15, 2025,
+[Dear Prof., I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide a recommendation Letter for me. The application deadline is November 15th, 2015. I will ensure to cover the required material promptly.']
+
+ [Your Name]:
+Dear Dr.[[Name],I wish both of YOU a good start on the Application & Introduction by submitting Form 1-SFfor Requesting Recommendation Letter.The submission deadline is October 25 , 2025. I shall include detailed explanation of why we need our recommendation letters and details of the position for your reference.Thank You for considering my request.-[Your Email Address]","Subject line, greeting, purpose, deadline November 15, 2025,
+[Dear Prof., I hope you are doing well. I am applying for an internship and would be grateful if your guidance could provide a recommendation Letter for me. The application deadline is November 15th, 2025. I will ensure to cover the required material promptly.'] [Your Name]:
+Dear Dr.[[Name],I wish both of YOU a good start on the Application & Introduction by submitting Form 1-SFfor Requesting Recommendation Letter.The submission deadline is October 25 , 2025. I shall include detailed explanation of why we need our recommendation letters and details of the position for your reference.Thank You for considering my request.-[Your Email Address]",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Control Systems assignment
+
+Dear Dr. Bose,
+
+I hope you are well. I am writing to request a 3-day extension for the project report for Control Systems currently due on September 22, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the project report by September 25, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Daksh Roll No. 853629
+Control Systems","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell; was unable complete the Algorithm Design assignment until September 25, 2025. Since then we have submitted it without delay. Thank You for your understanding.
+
+Sincerely,-[Your Name]","Subject line: Request For 2nd Extension On Algorithms Assignment
+Dear Prof. Kapoor ,
+I hope you are well. I have been unwell; was unable complete the Algorithm Design assignment until September 25, 2025. Since then we have submitted it without delay. Thank You for your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Operating Systems assignment
+
+Dear Dr. Mehta,
+
+I hope you are well. I am writing to request a 3-day extension for the final deliverable for Operating Systems currently due on September 16, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the final deliverable by September 19, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Meera Roll No. 418594
+Operating Systems","Subject line: Request For 2nd Extension On Algorithms Assignment
+I hope you are well. I have been unwell from personal reasons; therefore I was unable be adequately productive during the recent Algorithm Design assignments deadline .  Thank You for your understanding.
+Sincerely,
+                           Dr.[Name]","Subject line: Request For 2nd Extension On Algorithms Assignment
+I hope you are well. I have been unwell from personal reasons; therefore I was unable be adequately productive during the recent Algorithm Design assignments deadline . Thank You for your understanding.
+Sincerely",0,"temp=0.6, beams=4"
+15-09-2025 17:17,"Instruction: Draft an email to a professor asking for a 3-day extension on an assignment due to illness. Include polite tone, class name, and mention you will submit by the new date.","Subject: Request for 3-day extension on Control Systems assignment
+
+Dear Professor Gupta,
+
+I hope you are well. I am writing to request a 3-day extension for the homework for Control Systems currently due on September 19, 2025. I have been unwell and, as a result, was unable to work on the assignment this week to the standard I aim for. I respectfully request permission to submit the homework by September 22, 2025. I assure you I will submit it by that date and complete it to the best of my ability.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+Saanvi Roll No. 656968
+Control Systems","Subject line: Request For 2nd Extension On Algorithms Assignment
+I hope you are well. I have been unwell so was unableto complete the Algorithm Design assignment bythe original deadline .  Since I was unableTo include both the theoretical explanationand code implementation , my request isfor two consecutive days of additional material.Please be aware that I will not guarantee compliance until they are submitted.
+Thank You!","Subject line: Request For 2nd Extension On Algorithms Assignment
+I hope you are well. I have been unwell so was unableto complete the Algorithm Design assignment bythe original deadline . Since I was unableTo include both the theoretical explanationand code implementation , my request isfor two consecutive days of additional material.Please be aware that I will not guarantee compliance until they are submitted.
+Thank You!",0,"temp=0.6, beams=4"
